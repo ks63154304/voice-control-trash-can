@@ -1,7 +1,7 @@
 # voice-control-trash-can
 ## Overview
 * motivation
-In view of the improvement of the overall environmental quality of the office in recent years, in order to save the time it takes for office workers to throw away wastes, so that they can have more time to focus on the content of the work, there is the idea of ​​turning the trash can into sound control to realize wisdom.
+In view of the improvement of the overall environmental quality of the office in recent years, in order to save the time it takes for office workers to throw away wastes, so that they can have more time to focus on the content of the work, there is the idea of turning the trash can into sound control to realize wisdom.
 * Implementation and Test of Movable Voice Control Trash Can
 ## Realization
 * flow chart
