@@ -1,3 +1,4 @@
 # voice-control-trash-can
-*流程圖
-*架構
+## 123
+* flow chart
+* flow chart
